@@ -5,6 +5,3 @@
 [submodule "dnr"]
 	path = dnr
 	url = https://github.com/cran/dnr
-[submodule "mhtboot"]
-	path = mhtboot
-	url = https://github.com/cran/mhtboot
